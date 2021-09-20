@@ -1,0 +1,49 @@
+/*CONTEÚDO INFORMAÇÃO 1*/ 
+.inf_academica_1
+{
+    width: 20%;
+    height: 400px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border-style: double;    
+}
+.inf_conteudo_1
+{
+    text-align: center;    
+    
+}
+
+/*CONTEÚDO INFORMAÇÃO 2*/ 
+.inf_academica_2
+{
+    width: 20%;
+    height: 400px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border-style: double;    
+}
+.inf_conteudo_2
+{
+    text-align: center;    
+    
+}
+
+/*CONTEÚDO INFORMAÇÃO 3*/ 
+.inf_academica_3
+{
+    width: 20%;
+    height: 400px;
+    margin-top: 25px;
+    margin-left: 25px;
+    border-style: double;    
+}
+.inf_conteudo_3
+{
+    text-align: center;    
+    
+}
+/*CONFIGURAÇÃO DO LAYOUT DA PÁGINA*/
+.conteudo
+{
+    display: flex;
+}

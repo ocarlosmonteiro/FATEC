@@ -1,0 +1,27 @@
+/*CSS INDEX*/
+.conteiner_sobre_mim
+{
+    width: 80%;
+    height: 500px;
+    margin-top: 25px;;
+    margin-left: 25px;
+    display: flex;
+    background-color: rgb(212, 76, 30);
+}
+.conteiner_foto
+{
+    height: 80%;
+    width: 30%;
+    margin-top: 25px;
+    margin-left: 25px;
+    background-color: thistle;
+}
+.sobre_mim_discricao
+{
+    background-color: yellow;
+    width: 40%;
+    height: 25%;
+    margin-top: 150px;
+    margin-left: 100px;
+    text-align: justify;
+}
